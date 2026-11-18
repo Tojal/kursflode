@@ -32,6 +32,13 @@ SYMBOLS = {
     "DKKSEK=X": "DKK/SEK",
 }
 
+# Fonder: namn -> Avanzas fond-id (från adressen avanza.se/fonder/om-fonden.html/<id>/...)
+FUNDS = {
+    "Avanza Zero": 41567,
+    "Spiltan Aktiefond Investmentbolag": 325406,
+}
+AVANZA_FUND_URL = "https://www.avanza.se/_api/fund-guide/guide/{}"
+
 HISTORY_DAYS = 10  # antal handelsdagar som sparas per instrument
 
 
@@ -78,13 +85,62 @@ def fetch(symbol):
     }
 
 
+def fetch_fund(fund_id):
+    """Senaste fondkurs (NAV) med datum och dagsförändring från Avanza."""
+    import requests
+
+    r = requests.get(
+        AVANZA_FUND_URL.format(fund_id),
+        headers={"User-Agent": "Mozilla/5.0", "Accept": "application/json"},
+        timeout=30,
+    )
+    r.raise_for_status()
+    g = r.json()
+    if g.get("nav") is None or not g.get("navDate"):
+        raise ValueError("ingen fondkurs")
+    return {
+        "datum": g["navDate"][:10],
+        "nav": num(g["nav"]),
+        "forandring_pct": None if g.get("developmentOneDay") is None
+        else round(float(g["developmentOneDay"]), 2),
+    }
+
+
+def load_previous():
+    try:
+        with open("prices.json", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
 def main():
+    prev_file = load_previous()
     out = {
         "hamtad": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-        "kalla": "Yahoo Finance via yfinance",
+        "kalla": "Yahoo Finance via yfinance; fonder från Avanza",
         "kurser": {},
+        "fonder": {},
         "fel": {},
     }
+
+    # Fonder: spara varje dag som hämtas så att historiken växer över tid
+    for name, fund_id in FUNDS.items():
+        old_hist = (prev_file.get("fonder", {}).get(name, {}) or {}).get("historik", [])
+        try:
+            q = fetch_fund(fund_id)
+            hist = {h["datum"]: h for h in old_hist}
+            hist[q["datum"]] = {"datum": q["datum"], "nav": q["nav"],
+                                "forandring_pct": q["forandring_pct"]}
+            rows = sorted(hist.values(), key=lambda h: h["datum"])[-HISTORY_DAYS * 2:]
+            out["fonder"][name] = {**q, "avanza_id": fund_id, "historik": rows}
+            print(f"OK   {name[:12]:12} {q['datum']} {q['nav']} ({q['forandring_pct']} %)")
+        except Exception as e:
+            if old_hist:  # behåll tidigare historik om hämtningen misslyckas
+                out["fonder"][name] = {**old_hist[-1], "avanza_id": fund_id,
+                                       "historik": old_hist, "inaktuell": True}
+            out["fel"][name] = str(e)
+            print(f"FEL  {name[:12]:12} {e}")
     for symbol, name in SYMBOLS.items():
         try:
             q = fetch(symbol)
