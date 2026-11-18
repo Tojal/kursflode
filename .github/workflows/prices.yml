@@ -1,0 +1,36 @@
+name: Hämta kurser
+
+on:
+  schedule:
+    # Vardagar 21:45 UTC = 22:45 svensk vintertid / 23:45 sommartid (efter USA:s stängning)
+    - cron: "45 21 * * 1-5"
+    # Reservkörning tidig morgon om kvällskörningen skulle missas
+    - cron: "15 4 * * 2-6"
+  workflow_dispatch: {}   # gör att du kan köra den manuellt med en knapp
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installera yfinance
+        run: pip install yfinance
+
+      - name: Hämta kurser
+        run: python fetch_prices.py
+
+      - name: Spara prices.json
+        run: |
+          git config user.name "kursflode-bot"
+          git config user.email "kursflode-bot@users.noreply.github.com"
+          git add prices.json
+          git diff --cached --quiet || git commit -m "Kurser $(date -u +%Y-%m-%d)"
+          git push
