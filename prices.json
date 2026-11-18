@@ -1,0 +1,721 @@
+{
+ "hamtad": "2026-11-18T10:47:16+00:00",
+ "kalla": "Yahoo Finance via yfinance",
+ "kurser": {
+  "ALVO": {
+   "valuta": "USD",
+   "datum": "2026-11-17",
+   "stangning": 4.37,
+   "foregaende_datum": "2026-11-16",
+   "foregaende_stangning": 4.405,
+   "forandring_pct": -0.79,
+   "historik": [
+    {
+     "datum": "2026-11-04",
+     "stangning": 4.67
+    },
+    {
+     "datum": "2026-11-05",
+     "stangning": 4.55
+    },
+    {
+     "datum": "2026-11-06",
+     "stangning": 4.86
+    },
+    {
+     "datum": "2026-11-09",
+     "stangning": 4.69
+    },
+    {
+     "datum": "2026-11-10",
+     "stangning": 4.88
+    },
+    {
+     "datum": "2026-11-11",
+     "stangning": 4.92
+    },
+    {
+     "datum": "2026-11-12",
+     "stangning": 4.67
+    },
+    {
+     "datum": "2026-11-13",
+     "stangning": 4.19
+    },
+    {
+     "datum": "2026-11-16",
+     "stangning": 4.405
+    },
+    {
+     "datum": "2026-11-17",
+     "stangning": 4.37
+    }
+   ],
+   "namn": "Alvotech"
+  },
+  "ASTS": {
+   "valuta": "USD",
+   "datum": "2026-11-17",
+   "stangning": 27.59,
+   "foregaende_datum": "2026-11-16",
+   "foregaende_stangning": 28.58,
+   "forandring_pct": -3.46,
+   "historik": [
+    {
+     "datum": "2026-11-04",
+     "stangning": 35.62
+    },
+    {
+     "datum": "2026-11-05",
+     "stangning": 30.2
+    },
+    {
+     "datum": "2026-11-06",
+     "stangning": 32.33
+    },
+    {
+     "datum": "2026-11-09",
+     "stangning": 36.89
+    },
+    {
+     "datum": "2026-11-10",
+     "stangning": 33.69
+    },
+    {
+     "datum": "2026-11-11",
+     "stangning": 36.62
+    },
+    {
+     "datum": "2026-11-12",
+     "stangning": 34.5
+    },
+    {
+     "datum": "2026-11-13",
+     "stangning": 32.6
+    },
+    {
+     "datum": "2026-11-16",
+     "stangning": 28.58
+    },
+    {
+     "datum": "2026-11-17",
+     "stangning": 27.59
+    }
+   ],
+   "namn": "AST SpaceMobile"
+  },
+  "NVDA": {
+   "valuta": "USD",
+   "datum": "2026-11-17",
+   "stangning": 155.46,
+   "foregaende_datum": "2026-11-16",
+   "foregaende_stangning": 156.14,
+   "forandring_pct": -0.44,
+   "historik": [
+    {
+     "datum": "2026-11-04",
+     "stangning": 200.13
+    },
+    {
+     "datum": "2026-11-05",
+     "stangning": 181.6
+    },
+    {
+     "datum": "2026-11-06",
+     "stangning": 186.64
+    },
+    {
+     "datum": "2026-11-09",
+     "stangning": 178.67
+    },
+    {
+     "datum": "2026-11-10",
+     "stangning": 168.89
+    },
+    {
+     "datum": "2026-11-11",
+     "stangning": 173.73
+    },
+    {
+     "datum": "2026-11-12",
+     "stangning": 166.19
+    },
+    {
+     "datum": "2026-11-13",
+     "stangning": 162.85
+    },
+    {
+     "datum": "2026-11-16",
+     "stangning": 156.14
+    },
+    {
+     "datum": "2026-11-17",
+     "stangning": 155.46
+    }
+   ],
+   "namn": "NVIDIA"
+  },
+  "PSNY": {
+   "valuta": "USD",
+   "datum": "2026-11-17",
+   "stangning": 2.83,
+   "foregaende_datum": "2026-11-16",
+   "foregaende_stangning": 3.1,
+   "forandring_pct": -8.71,
+   "historik": [
+    {
+     "datum": "2026-11-04",
+     "stangning": 4.71
+    },
+    {
+     "datum": "2026-11-05",
+     "stangning": 4.07
+    },
+    {
+     "datum": "2026-11-06",
+     "stangning": 4.26
+    },
+    {
+     "datum": "2026-11-09",
+     "stangning": 4.72
+    },
+    {
+     "datum": "2026-11-10",
+     "stangning": 4.62
+    },
+    {
+     "datum": "2026-11-11",
+     "stangning": 4.88
+    },
+    {
+     "datum": "2026-11-12",
+     "stangning": 4.26
+    },
+    {
+     "datum": "2026-11-13",
+     "stangning": 3.24
+    },
+    {
+     "datum": "2026-11-16",
+     "stangning": 3.1
+    },
+    {
+     "datum": "2026-11-17",
+     "stangning": 2.83
+    }
+   ],
+   "namn": "Polestar"
+  },
+  "SPCX": {
+   "valuta": "USD",
+   "datum": "2026-11-17",
+   "stangning": 141.7,
+   "foregaende_datum": "2026-11-16",
+   "foregaende_stangning": 137.36,
+   "forandring_pct": 3.16,
+   "historik": [
+    {
+     "datum": "2026-11-04",
+     "stangning": 135.92
+    },
+    {
+     "datum": "2026-11-05",
+     "stangning": 123.62
+    },
+    {
+     "datum": "2026-11-06",
+     "stangning": 134.27
+    },
+    {
+     "datum": "2026-11-09",
+     "stangning": 142.07
+    },
+    {
+     "datum": "2026-11-10",
+     "stangning": 143.09
+    },
+    {
+     "datum": "2026-11-11",
+     "stangning": 139.75
+    },
+    {
+     "datum": "2026-11-12",
+     "stangning": 139.94
+    },
+    {
+     "datum": "2026-11-13",
+     "stangning": 139.11
+    },
+    {
+     "datum": "2026-11-16",
+     "stangning": 137.36
+    },
+    {
+     "datum": "2026-11-17",
+     "stangning": 141.7
+    }
+   ],
+   "namn": "SpaceX"
+  },
+  "TSLA": {
+   "valuta": "USD",
+   "datum": "2026-11-17",
+   "stangning": 380.11,
+   "foregaende_datum": "2026-11-16",
+   "foregaende_stangning": 379.74,
+   "forandring_pct": 0.1,
+   "historik": [
+    {
+     "datum": "2026-11-04",
+     "stangning": 385.19
+    },
+    {
+     "datum": "2026-11-05",
+     "stangning": 343.69
+    },
+    {
+     "datum": "2026-11-06",
+     "stangning": 358.22
+    },
+    {
+     "datum": "2026-11-09",
+     "stangning": 378.05
+    },
+    {
+     "datum": "2026-11-10",
+     "stangning": 379.78
+    },
+    {
+     "datum": "2026-11-11",
+     "stangning": 390.84
+    },
+    {
+     "datum": "2026-11-12",
+     "stangning": 397.45
+    },
+    {
+     "datum": "2026-11-13",
+     "stangning": 390.22
+    },
+    {
+     "datum": "2026-11-16",
+     "stangning": 379.74
+    },
+    {
+     "datum": "2026-11-17",
+     "stangning": 380.11
+    }
+   ],
+   "namn": "Tesla"
+  },
+  "AMD": {
+   "valuta": "USD",
+   "datum": "2026-11-17",
+   "stangning": 503.41,
+   "foregaende_datum": "2026-11-16",
+   "foregaende_stangning": 504.28,
+   "forandring_pct": -0.17,
+   "historik": [
+    {
+     "datum": "2026-11-04",
+     "stangning": 488.78
+    },
+    {
+     "datum": "2026-11-05",
+     "stangning": 404.4
+    },
+    {
+     "datum": "2026-11-06",
+     "stangning": 449.04
+    },
+    {
+     "datum": "2026-11-09",
+     "stangning": 508.58
+    },
+    {
+     "datum": "2026-11-10",
+     "stangning": 515.21
+    },
+    {
+     "datum": "2026-11-11",
+     "stangning": 552.9
+    },
+    {
+     "datum": "2026-11-12",
+     "stangning": 585.3
+    },
+    {
+     "datum": "2026-11-13",
+     "stangning": 534.06
+    },
+    {
+     "datum": "2026-11-16",
+     "stangning": 504.28
+    },
+    {
+     "datum": "2026-11-17",
+     "stangning": 503.41
+    }
+   ],
+   "namn": "AMD"
+  },
+  "VOLV-A.ST": {
+   "valuta": "SEK",
+   "datum": "2026-11-18",
+   "stangning": 319.4,
+   "foregaende_datum": "2026-11-17",
+   "foregaende_stangning": 319.8,
+   "forandring_pct": -0.13,
+   "historik": [
+    {
+     "datum": "2026-11-05",
+     "stangning": 318.4
+    },
+    {
+     "datum": "2026-11-06",
+     "stangning": 314.8
+    },
+    {
+     "datum": "2026-11-09",
+     "stangning": 317.8
+    },
+    {
+     "datum": "2026-11-10",
+     "stangning": 322.4
+    },
+    {
+     "datum": "2026-11-11",
+     "stangning": 324.6
+    },
+    {
+     "datum": "2026-11-12",
+     "stangning": 324.8
+    },
+    {
+     "datum": "2026-11-13",
+     "stangning": 324.2
+    },
+    {
+     "datum": "2026-11-16",
+     "stangning": 323.2
+    },
+    {
+     "datum": "2026-11-17",
+     "stangning": 319.8
+    },
+    {
+     "datum": "2026-11-18",
+     "stangning": 319.4
+    }
+   ],
+   "namn": "Volvo A"
+  },
+  "VOLV-B.ST": {
+   "valuta": "SEK",
+   "datum": "2026-11-18",
+   "stangning": 318.7,
+   "foregaende_datum": "2026-11-17",
+   "foregaende_stangning": 319.7,
+   "forandring_pct": -0.31,
+   "historik": [
+    {
+     "datum": "2026-11-05",
+     "stangning": 316.8
+    },
+    {
+     "datum": "2026-11-06",
+     "stangning": 312.8
+    },
+    {
+     "datum": "2026-11-09",
+     "stangning": 316.3
+    },
+    {
+     "datum": "2026-11-10",
+     "stangning": 321.2
+    },
+    {
+     "datum": "2026-11-11",
+     "stangning": 323.1
+    },
+    {
+     "datum": "2026-11-12",
+     "stangning": 324.0
+    },
+    {
+     "datum": "2026-11-13",
+     "stangning": 323.4
+    },
+    {
+     "datum": "2026-11-16",
+     "stangning": 322.7
+    },
+    {
+     "datum": "2026-11-17",
+     "stangning": 319.7
+    },
+    {
+     "datum": "2026-11-18",
+     "stangning": 318.7
+    }
+   ],
+   "namn": "Volvo B"
+  },
+  "VOLCAR-B.ST": {
+   "valuta": "SEK",
+   "datum": "2026-11-18",
+   "stangning": 10.64,
+   "foregaende_datum": "2026-11-17",
+   "foregaende_stangning": 10.67,
+   "forandring_pct": -0.28,
+   "historik": [
+    {
+     "datum": "2026-11-05",
+     "stangning": 11.85
+    },
+    {
+     "datum": "2026-11-06",
+     "stangning": 11.94
+    },
+    {
+     "datum": "2026-11-09",
+     "stangning": 11.95
+    },
+    {
+     "datum": "2026-11-10",
+     "stangning": 12.115
+    },
+    {
+     "datum": "2026-11-11",
+     "stangning": 11.985
+    },
+    {
+     "datum": "2026-11-12",
+     "stangning": 11.575
+    },
+    {
+     "datum": "2026-11-13",
+     "stangning": 11.385
+    },
+    {
+     "datum": "2026-11-16",
+     "stangning": 10.86
+    },
+    {
+     "datum": "2026-11-17",
+     "stangning": 10.67
+    },
+    {
+     "datum": "2026-11-18",
+     "stangning": 10.64
+    }
+   ],
+   "namn": "Volvo Car B"
+  },
+  "NOVO-B.CO": {
+   "valuta": "DKK",
+   "datum": "2026-11-18",
+   "stangning": 276.0,
+   "foregaende_datum": "2026-11-17",
+   "foregaende_stangning": 275.5,
+   "forandring_pct": 0.18,
+   "historik": [
+    {
+     "datum": "2026-11-05",
+     "stangning": 271.25
+    },
+    {
+     "datum": "2026-11-06",
+     "stangning": 269.45
+    },
+    {
+     "datum": "2026-11-09",
+     "stangning": 272.8
+    },
+    {
+     "datum": "2026-11-10",
+     "stangning": 271.5
+    },
+    {
+     "datum": "2026-11-11",
+     "stangning": 272.7
+    },
+    {
+     "datum": "2026-11-12",
+     "stangning": 275.75
+    },
+    {
+     "datum": "2026-11-13",
+     "stangning": 278.45
+    },
+    {
+     "datum": "2026-11-16",
+     "stangning": 285.25
+    },
+    {
+     "datum": "2026-11-17",
+     "stangning": 275.5
+    },
+    {
+     "datum": "2026-11-18",
+     "stangning": 276.0
+    }
+   ],
+   "namn": "Novo Nordisk B"
+  },
+  "^OMX": {
+   "valuta": "SEK",
+   "datum": "2026-11-18",
+   "stangning": 3287.9167,
+   "foregaende_datum": "2026-11-17",
+   "foregaende_stangning": 3287.48,
+   "forandring_pct": 0.01,
+   "historik": [
+    {
+     "datum": "2026-11-05",
+     "stangning": 3301.0901
+    },
+    {
+     "datum": "2026-11-06",
+     "stangning": 3267.8799
+    },
+    {
+     "datum": "2026-11-09",
+     "stangning": 3309.8501
+    },
+    {
+     "datum": "2026-11-10",
+     "stangning": 3327.75
+    },
+    {
+     "datum": "2026-11-11",
+     "stangning": 3360.01
+    },
+    {
+     "datum": "2026-11-12",
+     "stangning": 3359.3701
+    },
+    {
+     "datum": "2026-11-13",
+     "stangning": 3356.8701
+    },
+    {
+     "datum": "2026-11-16",
+     "stangning": 3341.95
+    },
+    {
+     "datum": "2026-11-17",
+     "stangning": 3287.48
+    },
+    {
+     "datum": "2026-11-18",
+     "stangning": 3287.9167
+    }
+   ],
+   "namn": "OMXS30"
+  },
+  "USDSEK=X": {
+   "valuta": "SEK",
+   "datum": "2026-11-18",
+   "stangning": 10.15,
+   "foregaende_datum": "2026-11-17",
+   "foregaende_stangning": 10.0982,
+   "forandring_pct": 0.51,
+   "historik": [
+    {
+     "datum": "2026-11-05",
+     "stangning": 9.731
+    },
+    {
+     "datum": "2026-11-06",
+     "stangning": 9.8093
+    },
+    {
+     "datum": "2026-11-09",
+     "stangning": 9.8909
+    },
+    {
+     "datum": "2026-11-10",
+     "stangning": 9.7991
+    },
+    {
+     "datum": "2026-11-11",
+     "stangning": 9.8613
+    },
+    {
+     "datum": "2026-11-12",
+     "stangning": 9.9641
+    },
+    {
+     "datum": "2026-11-13",
+     "stangning": 10.0313
+    },
+    {
+     "datum": "2026-11-16",
+     "stangning": 10.0713
+    },
+    {
+     "datum": "2026-11-17",
+     "stangning": 10.0982
+    },
+    {
+     "datum": "2026-11-18",
+     "stangning": 10.15
+    }
+   ],
+   "namn": "USD/SEK"
+  },
+  "DKKSEK=X": {
+   "valuta": "SEK",
+   "datum": "2026-11-18",
+   "stangning": 1.4876,
+   "foregaende_datum": "2026-11-17",
+   "foregaende_stangning": 1.4857,
+   "forandring_pct": 0.13,
+   "historik": [
+    {
+     "datum": "2026-11-05",
+     "stangning": 1.4624
+    },
+    {
+     "datum": "2026-11-06",
+     "stangning": 1.4734
+    },
+    {
+     "datum": "2026-11-09",
+     "stangning": 1.4748
+    },
+    {
+     "datum": "2026-11-10",
+     "stangning": 1.4709
+    },
+    {
+     "datum": "2026-11-11",
+     "stangning": 1.474
+    },
+    {
+     "datum": "2026-11-12",
+     "stangning": 1.4788
+    },
+    {
+     "datum": "2026-11-13",
+     "stangning": 1.4828
+    },
+    {
+     "datum": "2026-11-16",
+     "stangning": 1.4853
+    },
+    {
+     "datum": "2026-11-17",
+     "stangning": 1.4857
+    },
+    {
+     "datum": "2026-11-18",
+     "stangning": 1.4876
+    }
+   ],
+   "namn": "DKK/SEK"
+  }
+ },
+ "fel": {}
+}
