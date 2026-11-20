@@ -1,5 +1,5 @@
 {
- "hamtad": "2026-11-19T12:56:23+00:00",
+ "hamtad": "2026-11-20T02:35:43+00:00",
  "kalla": "Yahoo Finance via yfinance; fonder från Avanza",
  "kurser": {
   "ALVO": {
@@ -106,16 +106,12 @@
   },
   "NVDA": {
    "valuta": "USD",
-   "datum": "2026-11-18",
-   "stangning": 150.96,
-   "foregaende_datum": "2026-11-17",
-   "foregaende_stangning": 155.46,
-   "forandring_pct": -2.89,
+   "datum": "2026-11-19",
+   "stangning": 145.98,
+   "foregaende_datum": "2026-11-18",
+   "foregaende_stangning": 150.96,
+   "forandring_pct": -3.3,
    "historik": [
-    {
-     "datum": "2026-11-05",
-     "stangning": 181.6
-    },
     {
      "datum": "2026-11-06",
      "stangning": 186.64
@@ -151,6 +147,10 @@
     {
      "datum": "2026-11-18",
      "stangning": 150.96
+    },
+    {
+     "datum": "2026-11-19",
+     "stangning": 145.98
     }
    ],
    "namn": "NVIDIA"
@@ -259,16 +259,12 @@
   },
   "TSLA": {
    "valuta": "USD",
-   "datum": "2026-11-18",
-   "stangning": 383.72,
-   "foregaende_datum": "2026-11-17",
-   "foregaende_stangning": 380.11,
-   "forandring_pct": 0.95,
+   "datum": "2026-11-19",
+   "stangning": 374.41,
+   "foregaende_datum": "2026-11-18",
+   "foregaende_stangning": 383.72,
+   "forandring_pct": -2.43,
    "historik": [
-    {
-     "datum": "2026-11-05",
-     "stangning": 343.69
-    },
     {
      "datum": "2026-11-06",
      "stangning": 358.22
@@ -304,22 +300,22 @@
     {
      "datum": "2026-11-18",
      "stangning": 383.72
+    },
+    {
+     "datum": "2026-11-19",
+     "stangning": 374.41
     }
    ],
    "namn": "Tesla"
   },
   "AMD": {
    "valuta": "USD",
-   "datum": "2026-11-18",
-   "stangning": 530.14,
-   "foregaende_datum": "2026-11-17",
-   "foregaende_stangning": 503.41,
-   "forandring_pct": 5.31,
+   "datum": "2026-11-19",
+   "stangning": 489.19,
+   "foregaende_datum": "2026-11-18",
+   "foregaende_stangning": 530.14,
+   "forandring_pct": -7.72,
    "historik": [
-    {
-     "datum": "2026-11-05",
-     "stangning": 404.4
-    },
     {
      "datum": "2026-11-06",
      "stangning": 449.04
@@ -355,18 +351,26 @@
     {
      "datum": "2026-11-18",
      "stangning": 530.14
+    },
+    {
+     "datum": "2026-11-19",
+     "stangning": 489.19
     }
    ],
    "namn": "AMD"
   },
   "VOLV-A.ST": {
    "valuta": "SEK",
-   "datum": "2026-11-19",
-   "stangning": 323.0,
-   "foregaende_datum": "2026-11-18",
-   "foregaende_stangning": 318.6,
-   "forandring_pct": 1.38,
+   "datum": "2026-11-18",
+   "stangning": 318.6,
+   "foregaende_datum": "2026-11-17",
+   "foregaende_stangning": 319.8,
+   "forandring_pct": -0.38,
    "historik": [
+    {
+     "datum": "2026-11-05",
+     "stangning": 318.4
+    },
     {
      "datum": "2026-11-06",
      "stangning": 314.8
@@ -402,22 +406,22 @@
     {
      "datum": "2026-11-18",
      "stangning": 318.6
-    },
-    {
-     "datum": "2026-11-19",
-     "stangning": 323.0
     }
    ],
    "namn": "Volvo A"
   },
   "VOLV-B.ST": {
    "valuta": "SEK",
-   "datum": "2026-11-19",
-   "stangning": 322.1,
-   "foregaende_datum": "2026-11-18",
-   "foregaende_stangning": 318.0,
-   "forandring_pct": 1.29,
+   "datum": "2026-11-18",
+   "stangning": 318.0,
+   "foregaende_datum": "2026-11-17",
+   "foregaende_stangning": 319.7,
+   "forandring_pct": -0.53,
    "historik": [
+    {
+     "datum": "2026-11-05",
+     "stangning": 316.8
+    },
     {
      "datum": "2026-11-06",
      "stangning": 312.8
@@ -453,22 +457,22 @@
     {
      "datum": "2026-11-18",
      "stangning": 318.0
-    },
-    {
-     "datum": "2026-11-19",
-     "stangning": 322.1
     }
    ],
    "namn": "Volvo B"
   },
   "VOLCAR-B.ST": {
    "valuta": "SEK",
-   "datum": "2026-11-19",
-   "stangning": 10.76,
-   "foregaende_datum": "2026-11-18",
-   "foregaende_stangning": 10.61,
-   "forandring_pct": 1.41,
+   "datum": "2026-11-18",
+   "stangning": 10.61,
+   "foregaende_datum": "2026-11-17",
+   "foregaende_stangning": 10.67,
+   "forandring_pct": -0.56,
    "historik": [
+    {
+     "datum": "2026-11-05",
+     "stangning": 11.85
+    },
     {
      "datum": "2026-11-06",
      "stangning": 11.94
@@ -504,22 +508,22 @@
     {
      "datum": "2026-11-18",
      "stangning": 10.61
-    },
-    {
-     "datum": "2026-11-19",
-     "stangning": 10.76
     }
    ],
    "namn": "Volvo Cars"
   },
   "NOVO-B.CO": {
    "valuta": "DKK",
-   "datum": "2026-11-19",
-   "stangning": 266.75,
-   "foregaende_datum": "2026-11-18",
-   "foregaende_stangning": 271.45,
-   "forandring_pct": -1.73,
+   "datum": "2026-11-18",
+   "stangning": 271.45,
+   "foregaende_datum": "2026-11-17",
+   "foregaende_stangning": 275.5,
+   "forandring_pct": -1.47,
    "historik": [
+    {
+     "datum": "2026-11-05",
+     "stangning": 271.25
+    },
     {
      "datum": "2026-11-06",
      "stangning": 269.45
@@ -555,10 +559,6 @@
     {
      "datum": "2026-11-18",
      "stangning": 271.45
-    },
-    {
-     "datum": "2026-11-19",
-     "stangning": 266.75
     }
    ],
    "namn": "Novo Nordisk B"
@@ -566,10 +566,10 @@
   "^OMX": {
    "valuta": "SEK",
    "datum": "2026-11-19",
-   "stangning": 3273.0791,
+   "stangning": 3256.72,
    "foregaende_datum": "2026-11-18",
    "foregaende_stangning": 3256.21,
-   "forandring_pct": 0.52,
+   "forandring_pct": 0.02,
    "historik": [
     {
      "datum": "2026-11-06",
@@ -609,23 +609,19 @@
     },
     {
      "datum": "2026-11-19",
-     "stangning": 3273.0791
+     "stangning": 3256.72
     }
    ],
    "namn": "OMXS30"
   },
   "USDSEK=X": {
    "valuta": "SEK",
-   "datum": "2026-11-19",
-   "stangning": 10.138,
-   "foregaende_datum": "2026-11-18",
-   "foregaende_stangning": 10.1265,
-   "forandring_pct": 0.11,
+   "datum": "2026-11-20",
+   "stangning": 10.1948,
+   "foregaende_datum": "2026-11-19",
+   "foregaende_stangning": 10.169,
+   "forandring_pct": 0.25,
    "historik": [
-    {
-     "datum": "2026-11-06",
-     "stangning": 9.8093
-    },
     {
      "datum": "2026-11-09",
      "stangning": 9.8909
@@ -660,23 +656,23 @@
     },
     {
      "datum": "2026-11-19",
-     "stangning": 10.138
+     "stangning": 10.169
+    },
+    {
+     "datum": "2026-11-20",
+     "stangning": 10.1948
     }
    ],
    "namn": "USD/SEK"
   },
   "DKKSEK=X": {
    "valuta": "SEK",
-   "datum": "2026-11-19",
-   "stangning": 1.4887,
-   "foregaende_datum": "2026-11-18",
-   "foregaende_stangning": 1.4892,
-   "forandring_pct": -0.03,
+   "datum": "2026-11-20",
+   "stangning": 1.494,
+   "foregaende_datum": "2026-11-19",
+   "foregaende_stangning": 1.4927,
+   "forandring_pct": 0.09,
    "historik": [
-    {
-     "datum": "2026-11-06",
-     "stangning": 1.4734
-    },
     {
      "datum": "2026-11-09",
      "stangning": 1.4748
@@ -711,7 +707,11 @@
     },
     {
      "datum": "2026-11-19",
-     "stangning": 1.4887
+     "stangning": 1.4927
+    },
+    {
+     "datum": "2026-11-20",
+     "stangning": 1.494
     }
    ],
    "namn": "DKK/SEK"
@@ -737,9 +737,9 @@
    ]
   },
   "Spiltan Aktiefond Investmentbolag": {
-   "datum": "2026-11-18",
-   "nav": 1020.3,
-   "forandring_pct": -0.71,
+   "datum": "2026-11-19",
+   "nav": 1016.21,
+   "forandring_pct": -0.4,
    "avanza_id": 325406,
    "historik": [
     {
@@ -751,6 +751,11 @@
      "datum": "2026-11-18",
      "nav": 1020.3,
      "forandring_pct": -0.71
+    },
+    {
+     "datum": "2026-11-19",
+     "nav": 1016.21,
+     "forandring_pct": -0.4
     }
    ]
   }
@@ -797,24 +802,6 @@
    "instrument": "Volvo A",
    "symbol": "VOLV-A.ST",
    "typ": "Nyhet",
-   "datum": "2026-11-16",
-   "rubrik": "New Strong Sell Stocks for November 16th",
-   "lank": "https://finance.yahoo.com/markets/stocks/articles/strong-sell-stocks-november-16th-090800285.html",
-   "kalla": "Zacks"
-  },
-  {
-   "instrument": "Volvo B",
-   "symbol": "VOLV-B.ST",
-   "typ": "Nyhet",
-   "datum": "2026-11-16",
-   "rubrik": "New Strong Sell Stocks for November 16th",
-   "lank": "https://finance.yahoo.com/markets/stocks/articles/strong-sell-stocks-november-16th-090800285.html",
-   "kalla": "Zacks"
-  },
-  {
-   "instrument": "Volvo A",
-   "symbol": "VOLV-A.ST",
-   "typ": "Nyhet",
    "datum": "2026-11-17",
    "rubrik": "CAT Standardizes Construction Equipment Safety: Will It Set It Apart?",
    "lank": "https://finance.yahoo.com/technology/articles/cat-standardizes-construction-equipment-safety-144000969.html",
@@ -830,166 +817,166 @@
    "kalla": "Zacks"
   },
   {
-   "instrument": "Novo Nordisk B",
-   "symbol": "NOVO-B.CO",
+   "instrument": "AST SpaceMobile",
+   "symbol": "ASTS",
    "typ": "Nyhet",
-   "datum": "2026-11-17",
-   "rubrik": "Eli Lilly vs. Novo Nordisk: Which GLP-1 Stock Is a Better Buy for 2027?",
-   "lank": "https://www.fool.com/coverage/better-buy/2026/11/17/eli-lilly-vs-novo-nordisk-which-glp-1-stock-is-a-better-buy-for-2027/",
+   "datum": "2026-11-19",
+   "rubrik": "AST SpaceMobile Is Down 37% in a Month. Can B. Riley’s Upgrade Get ASTS Stock Back to $48?",
+   "lank": "https://247wallst.com/investing/2026/11/19/ast-spacemobile-is-down-37-in-a-month-can-b-rileys-upgrade-get-asts-stock-back-to-48/",
+   "kalla": "24/7 Wall St."
+  },
+  {
+   "instrument": "AST SpaceMobile",
+   "symbol": "ASTS",
+   "typ": "Nyhet",
+   "datum": "2026-11-19",
+   "rubrik": "Why AST SpaceMobile Stock Just Popped",
+   "lank": "https://www.fool.com/investing/2026/11/19/why-ast-spacemobile-stock-just-popped/",
    "kalla": "Motley Fool"
   },
   {
    "instrument": "AST SpaceMobile",
    "symbol": "ASTS",
    "typ": "Nyhet",
-   "datum": "2026-11-18",
-   "rubrik": "AST SpaceMobile Sinks 8% as New Offering Filing Revives Dilution Fears",
-   "lank": "https://www.tikr.com/blog/ast-spacemobile-sinks-8-as-new-offering-filing-revives-dilution-fears?ref=yahoofinance&tlnk=yf-261118-w92886xc",
+   "datum": "2026-11-19",
+   "rubrik": "AST SpaceMobile Rises 5% as B. Riley Upgrades, Says Launch and Funding Risks Are “Already Priced In”",
+   "lank": "https://www.tikr.com/blog/ast-spacemobile-rises-5-as-b-riley-upgrades-says-launch-and-funding-risks-are-already-priced-in?ref=yahoofinance&tlnk=yf-261119-cfh9cg9j",
    "kalla": "TIKR"
   },
   {
-   "instrument": "AST SpaceMobile",
-   "symbol": "ASTS",
+   "instrument": "NVIDIA",
+   "symbol": "NVDA",
    "typ": "Nyhet",
-   "datum": "2026-11-18",
-   "rubrik": "AST SpaceMobile Just Touched a 52-Week Low. Will ASTS Stock Hit $20 or $40 First?",
-   "lank": "https://247wallst.com/investing/2026/11/18/ast-spacemobile-just-touched-a-52-week-low-will-asts-stock-hit-20-or-40-first/",
-   "kalla": "24/7 Wall St."
+   "datum": "2026-11-19",
+   "rubrik": "Jensen Huang's Nvidia comeback: Why the math doesn't add up",
+   "lank": "https://finance.yahoo.com/video/jensen-huangs-nvidia-comeback-why-the-math-doesnt-add-up-213021034.html",
+   "kalla": "Yahoo Finance Video"
   },
   {
-   "instrument": "SpaceX",
-   "symbol": "SPCX",
+   "instrument": "NVIDIA",
+   "symbol": "NVDA",
    "typ": "Nyhet",
-   "datum": "2026-11-18",
-   "rubrik": "Anthropic to debut amid security worries and SpaceX to finance GPU rentals",
-   "lank": "https://finance.yahoo.com/video/anthropic-to-debut-amid-security-worries-and-spacex-to-finance-gpu-rentals-225801261.html",
+   "datum": "2026-11-19",
+   "rubrik": "Nvidia will not be the leader 5 years from now: Tiernan Ray",
+   "lank": "https://finance.yahoo.com/video/nvidia-will-not-be-the-leader-5-years-from-now-tiernan-ray-185954396.html",
+   "kalla": "Yahoo Finance Video"
+  },
+  {
+   "instrument": "NVIDIA",
+   "symbol": "NVDA",
+   "typ": "Nyhet",
+   "datum": "2026-11-19",
+   "rubrik": "Why AI competition from China won't be a risk US tech companies",
+   "lank": "https://finance.yahoo.com/video/why-ai-competition-from-china-wont-be-a-risk-us-tech-companies-184851467.html",
    "kalla": "Yahoo Finance Video"
   },
   {
    "instrument": "SpaceX",
    "symbol": "SPCX",
    "typ": "Nyhet",
-   "datum": "2026-11-18",
-   "rubrik": "Will Apollo's $40 billion for SpaceX to rent GPUs pay off?",
-   "lank": "https://finance.yahoo.com/video/will-apollos-40-billion-for-spacex-to-rent-gpus-pay-off-214146452.html",
-   "kalla": "Yahoo Finance Video"
-  },
-  {
-   "instrument": "Novo Nordisk B",
-   "symbol": "NOVO-B.CO",
-   "typ": "Nyhet",
-   "datum": "2026-11-18",
-   "rubrik": "Novo Nordisk (NVO) Stock May Be Undervalued On Raised 2026 Outlook",
-   "lank": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-stock-may-061727245.html",
-   "kalla": "Simply Wall St."
-  },
-  {
-   "instrument": "Novo Nordisk B",
-   "symbol": "NOVO-B.CO",
-   "typ": "Nyhet",
-   "datum": "2026-11-18",
-   "rubrik": "Novo Nordisk (NVO) Could Be 47% Below Fair Value Following Its AI Push",
-   "lank": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-could-47-051252677.html",
-   "kalla": "Simply Wall St."
-  },
-  {
-   "instrument": "AST SpaceMobile",
-   "symbol": "ASTS",
-   "typ": "Nyhet",
    "datum": "2026-11-19",
-   "rubrik": "ASTS Stock Jumps Overnight Despite New Shares For Engines And Spectrum — Bulls Cheer ULA’s Amazon Launch Clue",
-   "lank": "https://stocktwits.com/news-articles/markets/equity/asts-new-shares-engines-spectrum-bulls-ula-amazon-launch-clue/cNbLyqER9iS",
-   "kalla": "Stocktwits"
-  },
-  {
-   "instrument": "NVIDIA",
-   "symbol": "NVDA",
-   "typ": "Nyhet",
-   "datum": "2026-11-19",
-   "rubrik": "Stalemates over semiconductors and rare earth minerals appear little changed as Trump heads home from China",
-   "lank": "https://finance.yahoo.com/markets/article/stalemates-over-semiconductors-and-rare-earth-minerals-appear-little-changed-as-trump-heads-home-from-china-121555352.html",
+   "rubrik": "Anthropic IPO sets retail trading record as market sell-off weighs on buying",
+   "lank": "https://finance.yahoo.com/markets/article/retail-traders-pile-into-anthropic-ipo-but-net-buying-lags-spacex-212350846.html",
    "kalla": "Yahoo Finance"
-  },
-  {
-   "instrument": "NVIDIA",
-   "symbol": "NVDA",
-   "typ": "Nyhet",
-   "datum": "2026-11-19",
-   "rubrik": "Dow Jones Futures Rise, Nasdaq Jumps: Anthropic To Debut After Record IPO; Palo Alto, Everpure Rally, Walmart Falls",
-   "lank": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-anthropic-ipo-prices-ant-palo-alto-everpure-walmart-earnings/?src=A00220&yptr=yahoo",
-   "kalla": "Investor's Business Daily"
-  },
-  {
-   "instrument": "NVIDIA",
-   "symbol": "NVDA",
-   "typ": "Nyhet",
-   "datum": "2026-11-19",
-   "rubrik": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say",
-   "lank": "https://finance.yahoo.com/technology/ai/articles/tsmc-tightens-china-ai-chip-124653528.html",
-   "kalla": "Reuters"
   },
   {
    "instrument": "SpaceX",
    "symbol": "SPCX",
    "typ": "Nyhet",
    "datum": "2026-11-19",
-   "rubrik": "Stock market today: Dow, S&P 500, Nasdaq futures rise ahead of historic Anthropic IPO",
-   "lank": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-090910916.html",
+   "rubrik": "What does SpaceX have that Anthropic doesn't? Why the stock is losing steam",
+   "lank": "https://finance.yahoo.com/video/what-does-spacex-have-that-anthropic-doesnt-why-the-stock-is-losing-steam-202232861.html",
+   "kalla": "Yahoo Finance Video"
+  },
+  {
+   "instrument": "SpaceX",
+   "symbol": "SPCX",
+   "typ": "Nyhet",
+   "datum": "2026-11-19",
+   "rubrik": "Anthropic makes IPO history. But is it worth buying on day one?",
+   "lank": "https://finance.yahoo.com/video/anthropic-makes-ipo-history-but-is-it-worth-buying-on-day-one-170419357.html",
+   "kalla": "Yahoo Finance Video"
+  },
+  {
+   "instrument": "Tesla",
+   "symbol": "TSLA",
+   "typ": "Nyhet",
+   "datum": "2026-11-19",
+   "rubrik": "Elon Musk on his $500M in political spending: 'I feel pretty foolish'",
+   "lank": "https://finance.yahoo.com/video/elon-musk-on-his-500m-in-political-spending-i-feel-pretty-foolish-151142965.html",
+   "kalla": "Yahoo Finance Video"
+  },
+  {
+   "instrument": "Tesla",
+   "symbol": "TSLA",
+   "typ": "Nyhet",
+   "datum": "2026-11-19",
+   "rubrik": "Is Tech in a Bear Market? 20 Tech Stocks Fall Up to 76% From Highs",
+   "lank": "https://beincrypto.com/tech-stocks-bear-market-record-highs/",
+   "kalla": "BeInCrypto"
+  },
+  {
+   "instrument": "Tesla",
+   "symbol": "TSLA",
+   "typ": "Nyhet",
+   "datum": "2026-11-19",
+   "rubrik": "Musk Says Optimus Will Do the Dishes “Within 12-18 Months.” Here’s Where Tesla’s Robot Stands",
+   "lank": "https://www.tikr.com/blog/musk-says-optimus-will-do-the-dishes-within-12-18-months-heres-where-teslas-robot-stands?ref=yahoofinance&tlnk=yf-261119-6gjh8j3r",
+   "kalla": "TIKR"
+  },
+  {
+   "instrument": "AMD",
+   "symbol": "AMD",
+   "typ": "Nyhet",
+   "datum": "2026-11-19",
+   "rubrik": "Nvidia, Broadcom, and Micron stocks decline as Anthropic goes public",
+   "lank": "https://finance.yahoo.com/markets/article/nvidia-broadcom-micron-stocks-decline-as-anthropic-goes-public-170845481.html",
    "kalla": "Yahoo Finance"
   },
   {
-   "instrument": "Tesla",
-   "symbol": "TSLA",
+   "instrument": "AMD",
+   "symbol": "AMD",
    "typ": "Nyhet",
    "datum": "2026-11-19",
-   "rubrik": "4 Stocks Analysts and Hedge Funds Surprisingly Prefer Over Tesla",
-   "lank": "https://247wallst.com/investing/2026/11/19/4-stocks-analysts-and-hedge-funds-surprisingly-prefer-over-tesla/",
+   "rubrik": "AMD stock drops after Hunterbrook Media raises export control concerns",
+   "lank": "https://finance.yahoo.com/technology/article/amd-stock-drops-after-hunterbrook-media-raises-export-control-concerns-171508145.html",
+   "kalla": "Yahoo Finance"
+  },
+  {
+   "instrument": "AMD",
+   "symbol": "AMD",
+   "typ": "Nyhet",
+   "datum": "2026-11-19",
+   "rubrik": "Blacklisted Chinese server maker kept getting AMD firmware updates: Hunterbrook",
+   "lank": "https://finance.yahoo.com/video/blacklisted-chinese-server-maker-kept-getting-amd-firmware-updates-hunterbrook-162807931.html",
+   "kalla": "Yahoo Finance Video"
+  },
+  {
+   "instrument": "Novo Nordisk B",
+   "symbol": "NOVO-B.CO",
+   "typ": "Nyhet",
+   "datum": "2026-11-19",
+   "rubrik": "$1,000 Invested in Eli Lilly 10 Years Ago Would Be Worth a Fortune Today",
+   "lank": "https://247wallst.com/investing/2026/11/19/1000-invested-in-eli-lilly-10-years-ago-would-be-worth-a-fortune-today/",
    "kalla": "24/7 Wall St."
   },
   {
-   "instrument": "Tesla",
-   "symbol": "TSLA",
+   "instrument": "Novo Nordisk B",
+   "symbol": "NOVO-B.CO",
    "typ": "Nyhet",
    "datum": "2026-11-19",
-   "rubrik": "Tesla's China Business Sends Investors Two Very Different Signals",
-   "lank": "https://finance.yahoo.com/markets/stocks/articles/teslas-china-business-sends-investors-122724978.html",
-   "kalla": "GuruFocus.com"
-  },
-  {
-   "instrument": "Tesla",
-   "symbol": "TSLA",
-   "typ": "Nyhet",
-   "datum": "2026-11-19",
-   "rubrik": "Energy Transition Today - LevelTen Energy Ventures Into Asia-Pacific Clean Energy Market",
-   "lank": "https://finance.yahoo.com/energy/articles/energy-transition-today-levelten-energy-113657014.html",
+   "rubrik": "Amgen (AMGN) Has Advanced MariTide Into Phase 3 Trials",
+   "lank": "https://finance.yahoo.com/healthcare/articles/amgen-amgn-advanced-maritide-phase-141953302.html",
    "kalla": "Simply Wall St."
   },
   {
-   "instrument": "AMD",
-   "symbol": "AMD",
+   "instrument": "Novo Nordisk B",
+   "symbol": "NOVO-B.CO",
    "typ": "Nyhet",
    "datum": "2026-11-19",
-   "rubrik": "Stock market today: Dow, S&P 500, Nasdaq futures rise ahead of historic Anthropic IPO",
-   "lank": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-090910916.html",
-   "kalla": "Yahoo Finance"
-  },
-  {
-   "instrument": "AMD",
-   "symbol": "AMD",
-   "typ": "Nyhet",
-   "datum": "2026-11-19",
-   "rubrik": "The Dates That Matter Most For Micron Stock",
-   "lank": "https://www.trefis.com/stock/mu/articles/626781/the-dates-that-matter-most-for-micron-stock/2026-11-19",
-   "kalla": "Trefis"
-  },
-  {
-   "instrument": "AMD",
-   "symbol": "AMD",
-   "typ": "Nyhet",
-   "datum": "2026-11-19",
-   "rubrik": "OpenAI Says Its AI Improved AMD’s Best Chip Design by Up to 14%",
-   "lank": "https://247wallst.com/investing/2026/11/19/openai-says-its-ai-improved-amds-best-chip-design-by-up-to-14/",
-   "kalla": "24/7 Wall St."
+   "rubrik": "Can New Products and Acquisitions Revive Pfizer's Growth Story?",
+   "lank": "https://finance.yahoo.com/healthcare/articles/products-acquisitions-revive-pfizers-growth-141800924.html",
+   "kalla": "Zacks"
   }
  ]
 }
