@@ -1,5 +1,5 @@
 {
- "hamtad": "2026-11-28T03:30:07+00:00",
+ "hamtad": "2026-11-28T12:55:19+00:00",
  "kalla": "Yahoo Finance via yfinance; fonder från Avanza",
  "kurser": {
   "ALVO": {
@@ -361,16 +361,12 @@
   },
   "VOLV-A.ST": {
    "valuta": "SEK",
-   "datum": "2026-11-26",
-   "stangning": 325.8,
-   "foregaende_datum": "2026-11-25",
-   "foregaende_stangning": 316.0,
-   "forandring_pct": 3.1,
+   "datum": "2026-11-27",
+   "stangning": 333.6,
+   "foregaende_datum": "2026-11-26",
+   "foregaende_stangning": 325.8,
+   "forandring_pct": 2.39,
    "historik": [
-    {
-     "datum": "2026-11-13",
-     "stangning": 324.2
-    },
     {
      "datum": "2026-11-16",
      "stangning": 323.2
@@ -406,22 +402,22 @@
     {
      "datum": "2026-11-26",
      "stangning": 325.8
+    },
+    {
+     "datum": "2026-11-27",
+     "stangning": 333.6
     }
    ],
    "namn": "Volvo A"
   },
   "VOLV-B.ST": {
    "valuta": "SEK",
-   "datum": "2026-11-26",
-   "stangning": 325.7,
-   "foregaende_datum": "2026-11-25",
-   "foregaende_stangning": 315.6,
-   "forandring_pct": 3.2,
+   "datum": "2026-11-27",
+   "stangning": 333.0,
+   "foregaende_datum": "2026-11-26",
+   "foregaende_stangning": 325.7,
+   "forandring_pct": 2.24,
    "historik": [
-    {
-     "datum": "2026-11-13",
-     "stangning": 323.4
-    },
     {
      "datum": "2026-11-16",
      "stangning": 322.7
@@ -457,22 +453,22 @@
     {
      "datum": "2026-11-26",
      "stangning": 325.7
+    },
+    {
+     "datum": "2026-11-27",
+     "stangning": 333.0
     }
    ],
    "namn": "Volvo B"
   },
   "VOLCAR-B.ST": {
    "valuta": "SEK",
-   "datum": "2026-11-26",
+   "datum": "2026-11-27",
    "stangning": 10.285,
-   "foregaende_datum": "2026-11-25",
-   "foregaende_stangning": 9.852,
-   "forandring_pct": 4.4,
+   "foregaende_datum": "2026-11-26",
+   "foregaende_stangning": 10.285,
+   "forandring_pct": 0.0,
    "historik": [
-    {
-     "datum": "2026-11-13",
-     "stangning": 11.385
-    },
     {
      "datum": "2026-11-16",
      "stangning": 10.86
@@ -508,22 +504,22 @@
     {
      "datum": "2026-11-26",
      "stangning": 10.285
+    },
+    {
+     "datum": "2026-11-27",
+     "stangning": 10.285
     }
    ],
    "namn": "Volvo Cars"
   },
   "NOVO-B.CO": {
    "valuta": "DKK",
-   "datum": "2026-11-26",
-   "stangning": 277.25,
-   "foregaende_datum": "2026-11-25",
-   "foregaende_stangning": 274.3,
-   "forandring_pct": 1.08,
+   "datum": "2026-11-27",
+   "stangning": 280.6,
+   "foregaende_datum": "2026-11-26",
+   "foregaende_stangning": 277.25,
+   "forandring_pct": 1.21,
    "historik": [
-    {
-     "datum": "2026-11-13",
-     "stangning": 278.45
-    },
     {
      "datum": "2026-11-16",
      "stangning": 285.25
@@ -559,6 +555,10 @@
     {
      "datum": "2026-11-26",
      "stangning": 277.25
+    },
+    {
+     "datum": "2026-11-27",
+     "stangning": 280.6
     }
    ],
    "namn": "Novo Nordisk B"
@@ -895,15 +895,6 @@
    "kalla": "Moby"
   },
   {
-   "instrument": "Polestar",
-   "symbol": "PSNY",
-   "typ": "Nyhet",
-   "datum": "2026-11-25",
-   "rubrik": "What Polestar Automotive Holding UK (PSNY) Said on Its Q3 Earnings Call",
-   "lank": "https://www.marketbeat.com/instant-alerts/transcript-what-polestar-automotive-holding-uk-psny-said-on-its-q3-earnings-call-2026-11-25/?utm_source=yahoofinance&utm_medium=yahoofinance",
-   "kalla": "MarketBeat"
-  },
-  {
    "instrument": "Volvo A",
    "symbol": "VOLV-A.ST",
    "typ": "Nyhet",
@@ -967,15 +958,6 @@
    "kalla": "MT Newswires"
   },
   {
-   "instrument": "Alvotech",
-   "symbol": "ALVO",
-   "typ": "Nyhet",
-   "datum": "2026-11-27",
-   "rubrik": "Alvotech (ALVO) Stock Is Down 10.8% Today Without Company News",
-   "lank": "https://finance.yahoo.com/markets/stocks/articles/alvotech-alvo-stock-down-10-150033325.html",
-   "kalla": "GuruFocus.com"
-  },
-  {
    "instrument": "AST SpaceMobile",
    "symbol": "ASTS",
    "typ": "Nyhet",
@@ -1003,105 +985,6 @@
    "kalla": "Stocktwits"
   },
   {
-   "instrument": "NVIDIA",
-   "symbol": "NVDA",
-   "typ": "Nyhet",
-   "datum": "2026-11-27",
-   "rubrik": "Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back",
-   "lank": "https://finance.yahoo.com/markets/article/stocks-snap-from-a-6-trillion-washout-to-a-3-trillion-surge-as-nvidia-micron-and-spacex-bounce-back-151218930.html",
-   "kalla": "Yahoo Finance"
-  },
-  {
-   "instrument": "NVIDIA",
-   "symbol": "NVDA",
-   "typ": "Nyhet",
-   "datum": "2026-11-27",
-   "rubrik": "Why this portfolio manager says investors should 'avoid the neoclouds'",
-   "lank": "https://finance.yahoo.com/video/why-this-portfolio-manager-says-investors-should-avoid-the-neoclouds-160003179.html",
-   "kalla": "Yahoo Finance Video"
-  },
-  {
-   "instrument": "NVIDIA",
-   "symbol": "NVDA",
-   "typ": "Nyhet",
-   "datum": "2026-11-27",
-   "rubrik": "PacSun CEO talks brand resurgence, holiday shopping season boom",
-   "lank": "https://finance.yahoo.com/video/pacsun-ceo-talks-brand-resurgence-holiday-shopping-season-boom-154316985.html",
-   "kalla": "Yahoo Finance Video"
-  },
-  {
-   "instrument": "SpaceX",
-   "symbol": "SPCX",
-   "typ": "Nyhet",
-   "datum": "2026-11-27",
-   "rubrik": "Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back",
-   "lank": "https://finance.yahoo.com/markets/article/stocks-snap-from-a-6-trillion-washout-to-a-3-trillion-surge-as-nvidia-micron-and-spacex-bounce-back-151218930.html",
-   "kalla": "Yahoo Finance"
-  },
-  {
-   "instrument": "SpaceX",
-   "symbol": "SPCX",
-   "typ": "Nyhet",
-   "datum": "2026-11-27",
-   "rubrik": "Are billionaires gaining too much influence as they invest in Trump Accounts?",
-   "lank": "https://finance.yahoo.com/video/are-billionaires-gaining-too-much-influence-as-they-invest-in-trump-accounts-181419307.html",
-   "kalla": "Yahoo Finance Video"
-  },
-  {
-   "instrument": "SpaceX",
-   "symbol": "SPCX",
-   "typ": "Nyhet",
-   "datum": "2026-11-27",
-   "rubrik": "Nvidia halts sales to SE Asia, SpaceX surges on Musk's share promise",
-   "lank": "https://finance.yahoo.com/video/nvidia-halts-sales-to-se-asia-spacex-surges-on-musks-share-promise-151001061.html",
-   "kalla": "Yahoo Finance Video"
-  },
-  {
-   "instrument": "Tesla",
-   "symbol": "TSLA",
-   "typ": "Nyhet",
-   "datum": "2026-11-27",
-   "rubrik": "SpaceX, Tesla have had a bumpy 2026 thus far: What to know",
-   "lank": "https://finance.yahoo.com/video/spacex-tesla-have-had-a-bumpy-2026-thus-far-what-to-know-145849441.html",
-   "kalla": "Yahoo Finance Video"
-  },
-  {
-   "instrument": "Tesla",
-   "symbol": "TSLA",
-   "typ": "Nyhet",
-   "datum": "2026-11-27",
-   "rubrik": "Texas Is Racing to Approve SpaceX’s $24 Billion Starbase Data Center Before Its New Governor Can Halt It",
-   "lank": "https://www.tikr.com/blog/texas-is-racing-to-approve-spacexs-24-billion-starbase-data-center-before-its-new-governor-can-halt-it?ref=yahoofinance&tlnk=yf-261127-5cjgmqwx",
-   "kalla": "TIKR"
-  },
-  {
-   "instrument": "AMD",
-   "symbol": "AMD",
-   "typ": "Nyhet",
-   "datum": "2026-11-27",
-   "rubrik": "Jensen Huang Is Back. Nvidia’s (NVDA) Bull Case Remains",
-   "lank": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-back-nvidia-nvda-210600721.html",
-   "kalla": "TipRanks"
-  },
-  {
-   "instrument": "AMD",
-   "symbol": "AMD",
-   "typ": "Nyhet",
-   "datum": "2026-11-27",
-   "rubrik": "AMD Stocks Rise Despite Erste Group Downgrade on Valuation",
-   "lank": "https://finance.yahoo.com/markets/stocks/articles/amd-stocks-rise-despite-erste-191808508.html",
-   "kalla": "GuruFocus.com"
-  },
-  {
-   "instrument": "AMD",
-   "symbol": "AMD",
-   "typ": "Nyhet",
-   "datum": "2026-11-27",
-   "rubrik": "Jim Cramer Is Still Bullish On These 5 Tech Stocks Despite AI Bear Market",
-   "lank": "https://finance.yahoo.com/technology/articles/jim-cramer-still-bullish-5-184921596.html",
-   "kalla": "Insider Monkey"
-  },
-  {
    "instrument": "Novo Nordisk B",
    "symbol": "NOVO-B.CO",
    "typ": "Nyhet",
@@ -1120,12 +1003,129 @@
    "kalla": "Zacks"
   },
   {
+   "instrument": "Alvotech",
+   "symbol": "ALVO",
+   "typ": "Nyhet",
+   "datum": "2026-11-28",
+   "rubrik": "Alvotech (ALVO) Stock May Be A Bargain As Its US Appeal Starts",
+   "lank": "https://finance.yahoo.com/markets/stocks/articles/alvotech-alvo-stock-may-bargain-031124187.html",
+   "kalla": "Simply Wall St."
+  },
+  {
+   "instrument": "NVIDIA",
+   "symbol": "NVDA",
+   "typ": "Nyhet",
+   "datum": "2026-11-28",
+   "rubrik": "Dow Jones Futures: Tesla Leads 7 Buys After Bullish Market Move; Nvidia's Jensen Huang On Capitol Hill",
+   "lank": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-bullish-move-tesla-new-buys-nvidia-ceo-jensen-huang-congress/?src=A00220&yptr=yahoo",
+   "kalla": "Investor's Business Daily"
+  },
+  {
+   "instrument": "NVIDIA",
+   "symbol": "NVDA",
+   "typ": "Nyhet",
+   "datum": "2026-11-28",
+   "rubrik": "Nvidia Faces Yet Another Risk. Here's What It Means for Investors.",
+   "lank": "https://www.fool.com/investing/2026/11/28/nvidia-faces-yet-another-risk-here-s-what-it-means-for-investors/",
+   "kalla": "Motley Fool"
+  },
+  {
+   "instrument": "NVIDIA",
+   "symbol": "NVDA",
+   "typ": "Nyhet",
+   "datum": "2026-11-28",
+   "rubrik": "Oklo vs. NuScale Power: Which Nuclear Stock Will Rise 100% First?",
+   "lank": "https://www.fool.com/investing/2026/11/28/oklo-vs-nuscale-power-which-nuclear-stock-will-rise-100-first/",
+   "kalla": "Motley Fool"
+  },
+  {
+   "instrument": "Polestar",
+   "symbol": "PSNY",
+   "typ": "Nyhet",
+   "datum": "2026-11-28",
+   "rubrik": "Polestar (PSNY) Stock Fair Value Moves Lower As Analysts Cut Growth Views",
+   "lank": "https://finance.yahoo.com/markets/stocks/articles/polestar-psny-stock-fair-value-040954007.html",
+   "kalla": "Simply Wall St."
+  },
+  {
+   "instrument": "SpaceX",
+   "symbol": "SPCX",
+   "typ": "Nyhet",
+   "datum": "2026-11-28",
+   "rubrik": "Gavin Baker Got “Much Better Versions” of His Claude Code Builds From Grok Bot. Warning for Anthropic",
+   "lank": "https://www.tikr.com/blog/gavin-baker-got-much-better-versions-of-his-claude-code-builds-from-grok-bot-warning-for-anthropic?ref=yahoofinance&tlnk=yf-261128-fvq3f97r",
+   "kalla": "TIKR"
+  },
+  {
+   "instrument": "SpaceX",
+   "symbol": "SPCX",
+   "typ": "Nyhet",
+   "datum": "2026-11-28",
+   "rubrik": "S&P 500 Market Correction: 3 “Safe” Stocks to Buy Now",
+   "lank": "https://www.fool.com/investing/2026/11/28/s-and-p-500-market-correction-3-safe-stocks-to-buy-now/",
+   "kalla": "Motley Fool"
+  },
+  {
+   "instrument": "SpaceX",
+   "symbol": "SPCX",
+   "typ": "Nyhet",
+   "datum": "2026-11-28",
+   "rubrik": "Tech Stock Sell-Off: Down 36%, Is SpaceX a Buy Now?",
+   "lank": "https://www.fool.com/investing/2026/11/28/tech-stock-sell-off-down-36-is-spacex-a-buy-now/",
+   "kalla": "Motley Fool"
+  },
+  {
    "instrument": "Tesla",
    "symbol": "TSLA",
    "typ": "Nyhet",
    "datum": "2026-11-28",
-   "rubrik": "Zero To Sixty: Tesla Cybercab Fleet Tops 1,000 In Texas, Lucid Starts Fully Driverless Tests And Chinese EV Maker Posts Stronger Margins",
-   "lank": "https://stocktwits.com/news-articles/markets/equity/zero-to-sixty-tesla-cybercab-fleet-tops-1-000-in-texas-lucid-starts-fully-driverless-tests-and-chinese-ev-maker-posts-stronger-margins/cNRRKv9R9Vl",
+   "rubrik": "Dow Jones Futures: Tesla Leads 7 Buys After Bullish Market Move; Nvidia's Jensen Huang On Capitol Hill",
+   "lank": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-bullish-move-tesla-new-buys-nvidia-ceo-jensen-huang-congress/?src=A00220&yptr=yahoo",
+   "kalla": "Investor's Business Daily"
+  },
+  {
+   "instrument": "Tesla",
+   "symbol": "TSLA",
+   "typ": "Nyhet",
+   "datum": "2026-11-28",
+   "rubrik": "History Says What Tesla Stock Does After Its Annual Meeting. This Year's Is Dec. 3.",
+   "lank": "https://www.fool.com/investing/2026/11/28/history-says-what-tesla-stock-does-after-its-annual-meeting-this-year-s-is-dec-3/",
+   "kalla": "Motley Fool"
+  },
+  {
+   "instrument": "Tesla",
+   "symbol": "TSLA",
+   "typ": "Nyhet",
+   "datum": "2026-11-28",
+   "rubrik": "Are Goldman Sachs and Morgan Stanley “Over Earning” on the AI Boom? Both Fell 20%+ in 3 Months",
+   "lank": "https://www.tikr.com/blog/are-goldman-sachs-and-morgan-stanley-over-earning-on-the-ai-boom-both-fell-20-in-3-months?ref=yahoofinance&tlnk=yf-261128-wf2m8fmf",
+   "kalla": "TIKR"
+  },
+  {
+   "instrument": "AMD",
+   "symbol": "AMD",
+   "typ": "Nyhet",
+   "datum": "2026-11-28",
+   "rubrik": "Dan Ives Calls Nvidia’s China and Asia Exposure a “Containable 15% to 20%” of Revenue. Huang Faces Congress Next Week",
+   "lank": "https://www.tikr.com/blog/dan-ives-calls-nvidias-china-and-asia-exposure-a-containable-15-to-20-of-revenue-huang-faces-congress-next-week?ref=yahoofinance&tlnk=yf-261128-43p6xw35",
+   "kalla": "TIKR"
+  },
+  {
+   "instrument": "AMD",
+   "symbol": "AMD",
+   "typ": "Nyhet",
+   "datum": "2026-11-28",
+   "rubrik": "‘He Doesn’t Have Integrity’: Suze Orman Says Jensen Huang Should ‘Never, Ever, Ever Come Back’ but Won’t Sell a Single Nvidia Share",
+   "lank": "https://247wallst.com/personal-finance/2026/11/28/he-doesnt-have-integrity-suze-orman-says-jensen-huang-should-never-ever-ever-come-back-but-wont-sell-a-single-nvidia-share/",
+   "kalla": "24/7 Wall St."
+  },
+  {
+   "instrument": "AMD",
+   "symbol": "AMD",
+   "typ": "Nyhet",
+   "datum": "2026-11-28",
+   "rubrik": "OpenAI’s 457 MW TensorWave Deal Could Be Worth Up To $9.1B, Say Analysts: What It Means For AMD Stock",
+   "lank": "https://stocktwits.com/news-articles/markets/equity/openai-tensorwave-deal-amd-9-1b-what-it-means-for-amd-stock/cNRRu5WR9Vw",
    "kalla": "Stocktwits"
   },
   {
